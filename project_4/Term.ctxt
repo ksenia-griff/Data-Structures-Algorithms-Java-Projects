@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Term
+comment1.params=query
+comment1.target=Term(java.lang.String)
+comment2.params=query\ weight
+comment2.target=Term(java.lang.String,\ long)
+comment3.params=
+comment3.target=java.util.Comparator\ byReverseWeightOrder()
+comment4.params=r
+comment4.target=java.util.Comparator\ byPrefixOrder(int)
+comment5.params=that
+comment5.target=int\ compareTo(Term)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

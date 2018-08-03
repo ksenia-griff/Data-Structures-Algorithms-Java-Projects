@@ -1,0 +1,25 @@
+1. Hours to complete the project: 30 hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Autocomplete Term): easy one, I followed the
+   project checklist. 
+
+   Problem 2 (Binary Search Deluxe): I have an issue here. My output is not the same and does not pass the test. I dont know what the issue is. I asked on Piazaa but didnot get a response, so i don't know...
+
+   Problem 3 (Autocomplete): I completed this one, but because my BinarySearchDeluxe.java has an issue, it cannot produce the correct output.
+   
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   CS Algorithms lecture on QuickSort, Quick3way.
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   It was a challenge for me....It is the first assignment that i did not complete...I wish we had more hours of preparation for such assignments...I reached out for tutoting once but i did not have my questions answered, so i hope more hours of supplementary on a class level, group level, mandatory, would be introduced in the future...for questions-having students like myself...
