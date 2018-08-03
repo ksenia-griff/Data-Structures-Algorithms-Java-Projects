@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=BinarySearchDeluxe
-comment1.params=a\ key\ comparator
-comment1.target=int\ firstIndexOf(java.lang.Object[],\ java.lang.Object,\ java.util.Comparator)
-comment2.params=a\ key\ comparator
-comment2.target=int\ lastIndexOf(java.lang.Object[],\ java.lang.Object,\ java.util.Comparator)
-comment3.params=args
-comment3.target=void\ main(java.lang.String[])
-numComments=4
